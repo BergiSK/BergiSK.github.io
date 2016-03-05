@@ -4,30 +4,11 @@
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			{% include table.css %}
 		</head>
 		<body>
-			<nav class="mainmenu">
-				<ul class="mainmenu">
-					<li class="dropdown">
-					  <button class="dropbtn" id = "first"><a href="/">Home</a></button>
-					</li>
-					<li class="dropdown">
-					  <button class="dropbtn"><a href="/profile">IT profil</a></button>
-					  <ul class="dropdown-content">
-						<li><a href="/bp">Bakalársky projekt</a></li>
-						<li><a href="/java">Java</a></li>
-						<li><a href="/wp">Webové publikovanie</a></li>
-					  </ul>
-					</li>
-					<li class="dropdown">
-					  <button class="dropbtn"><a href="/sach">Šach</a></button>
-					</li>
-					<li class="dropdown">
-					  <button class="dropbtn"><a href="/kontakt">Kontakt</a></button>
-					</li>
-					
-				</ul>
-			</nav>
+			
+			{% include menu.html %}
 			
 			<div class="container">
 			
@@ -35,8 +16,9 @@
 			
 			</div><!-- /.container -->
 			<footer>
+				
 	    		<ul>
-					
+					© 2016
 	        		<li><a href="https://www.facebook.com/patrik.m.berger">
 					<img src="https://osiprodweuodcspstoa01.blob.core.windows.net/en-us/media/e943ecc8-5be2-4768-a17e-1b829b908afe.gif">
 					Patrik Berger</a></li>

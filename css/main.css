@@ -106,3 +106,7 @@ nav.mainmenu {
 #first {
     border-left: white solid 3px;
 }
+
+img {
+padding: 10px;
+}

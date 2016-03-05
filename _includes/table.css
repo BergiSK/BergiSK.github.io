@@ -1,0 +1,69 @@
+<style type="text/css">
+DIV.CRfk          { padding: 2px 7px 2px 7px; COLOR: #c6813e; BORDER-TOP: #fc6 1px solid; BORDER-Bottom: #fc6 1px solid; padding: 1px 1px 1px 2px; BACKGROUND: #ffedcc; MARGIN: 0px; MARGIN-BOTTOM: 0px;FONT-STYLE: normal}
+DIV.CRfk A        { COLOR: #c6813e; BORDER-STYLE: none; }
+DIV.CR            {  BORDER-LEFT: #fc6 2px solid; BORDER-RIGHT: #fc6 2px solid; BORDER-TOP: #fc6 1px solid; BORDER-BOTTOM: #fc6 1px solid; 
+                    MARGIN: 0px; FONT-SIZE: 9pt; FONT-WEIGHT: normal; TEXT-ALIGN: left; FONT-FAMILY: "Lucida Grande", Verdana, Helvetica; }
+.CRsmall          {	FONT-SIZE: 9pt; MARGIN: 3px 0px 0px 3px; border-WIDTH: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;}
+.CRs3             {	BACKGROUND: #FFF5E5; }
+.CRs4             {	BACKGROUND: #FFF5E5;  }
+.CRs3x            {	BACKGROUND: #bfbfbf; }
+.CRs1,
+.CRs3             {	BORDER-WIDTH: 0px 0px 0px 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px;}
+.CRs3             {	FONT-SIZE: 9pt; BORDER-WIDTH: 0px 0px 0px 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px;}
+.CRs4             {	FONT-SIZE: 10pt;BORDER-WIDTH: 0px 0px 0px 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px;}
+table.CRs2        {	BACKGROUND: #FFF5E5; }
+table.CRs3        {	FONT-SIZE: 9pt; BACKGROUND: #FFF5E5;}
+
+.CRe              { COLOR: black; padding: 1px 1px 1px 2px; BACKGROUND: #FF9900; }
+
+H5  { color: #494141; text-transform: none; padding-top: 1px; padding-bottom: 1px; margin: 0px 0px 0px 0px; font-size: 1.2em; font-weight: 500; }
+
+H3.xCR             { BORDER-LEFT: #fc6 0px solid; BORDER-RIGHT: #fc6 0px solid; BORDER-TOP: #fc6 1px solid; BORDER-BOTTOM: #fc6 1px solid; 
+                    COLOR: #c6813e; padding: 1px 1px 1px 2px; BACKGROUND: #ffedcc; MARGIN: 0px; MARGIN-BOTTOM: 0px;FONT-STYLE: normal; FONT-SIZE: 10pt; }
+
+A.CRdb            { TEXT-DECORATION: none}
+P.CRlz            {	FONT-SIZE: 3pt; MARGIN: 2px 0px}
+P.CR              {	WORD-SPACING: normal; padding: 0px 0px 0px 0px; MARGIN: 6px 10px 6px 3px; border-WIDTH: 1px 1px 1px 1px; TEXT-ALIGN: left}
+
+TR.CRline         {	BACKGROUND: navy; HEIGHT: 3px}
+TR.CR             {	FONT-SIZE: 9pt; TEXT-DECORATION: none; BORDER-COLOR: black; COLOR: black; }
+TR.CRob           {	FONT-WEIGHT: bold}
+TR.CRg1b          {	BACKGROUND: #dbdfe8; FONT-WEIGHT: bold;  }
+TR.CRg1           {	BACKGROUND: #f4f4f4;}
+TR.CRg2           { BACKGROUND: #ebecf1;}
+TR.CRg3           { BACKGROUND: red;}
+
+.CRng1b           {	BACKGROUND: #dbdfe8; FONT-WEIGHT: bold;  white-space:nowrap; }
+.CRng1            {	BACKGROUND: #f4f4f4;  white-space:nowrap; }
+.CRng2            { BACKGROUND: #ebecf1;  white-space:nowrap;}
+
+TD                {	PADDING-RIGHT: 2px; PADDING-LEFT: 3px; MARGIN-LEFT: 0px; }
+TD.CR0grau,
+TD.CR0            {	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; MARGIN-LEFT: 0px; }
+
+TD.CRl            {	TEXT-ALIGN: left}
+TD.CRc            {	TEXT-ALIGN: center}
+TD.CRcW           {	TEXT-ALIGN: center; white-space:nowrap;}
+
+TD.CRcw           {	BACKGROUND: white; TEXT-ALIGN: center}
+TD.CRcb           {	FONT-WEIGHT: bold; BACKGROUND: gray; COLOR: white; TEXT-ALIGN: center}
+TD.CRr            {	TEXT-ALIGN: right}
+
+.CRkey            { BACKGROUND-COLOR: #FFFFC6; }
+.CRr              { TEXT-ALIGN: right }
+.CRb              { FONT-WEIGHT: bold;}
+.CRinp,
+.CRtext,
+.CRtextb          { FONT-SIZE: 9pt; FONT-STYLE: normal }
+.CRtextb          { FONT-WEIGHT: bold; }
+.CRgrau           { BACKGROUND: #dadada; }
+.CRwhite          { COLOR: white; }
+.CRred            {	BACKGROUND-COLOR: #FCA1A1; FONT-WEIGHT: bold; Color: black; }
+.CR7c             { FONT-SIZE: 7pt;  }
+.CR8c             { FONT-SIZE: 8pt;  }
+.CR9c             { FONT-SIZE: 9pt;  }
+.CR10c            { FONT-SIZE: 10pt; }
+.CR11c            { FONT-SIZE: 11pt; }
+.CR12c            { FONT-SIZE: 12pt; }
+table {font-family:  "Segoe UI", Verdana, "Lucida Grande", Arial, Helvetica,sans-serif;}
+</style>
