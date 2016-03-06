@@ -8,4 +8,6 @@ date: 2015-07-11
 result: 1/2-1/2
 ---
 
-obkec
+Partia bola odohraná v zápase Slovan DP Bratislava - ŠK Skalica. Nastúpil som po dlhšom čase
+a na piatej doske som sa stretol so skúseným hráčom. Čiernymi sa mi podarilo udržať pozíciu a dopomôcť nášmu tímu k
+celkovému víťazstvu v zápase.

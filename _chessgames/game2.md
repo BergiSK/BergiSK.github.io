@@ -8,4 +8,6 @@ date: 2016-01-24
 result: 0-1
 ---
 
-obkec
+Vzhľadom k voľnému času medzi semestrami som mohol znova nastúpiť v 2. lige. V partii som sa stretol som dlhoročným
+kamarátom a trénerom mládeže Tomášom. Jeho hra je známa agresívnym prístupom s množstvom obetí. Po dlhej bitve sa mi
+podarilo zvíťaziť, čo nám zároveň zabezpečilo víťazstvo v zápase.
