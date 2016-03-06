@@ -5,7 +5,7 @@ gallerytag:
     url: /images
     thumb_width: 150
     thumb_height: 150
-    columns: 2
+    columns: 4
 collections:
  - chessgames
 
