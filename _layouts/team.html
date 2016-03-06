@@ -1,0 +1,33 @@
+---
+layout: default
+---
+	<h1>{{ page.title }}</h1>
+	
+	{% if page.content != null %} <h2> Aktuálne </h2> 
+		<div class="content">
+			<p>
+				{{page.content}}
+			</p>
+		</div>
+	{% endif %}
+	
+<div>
+	<h2> Kto sme? </h2>
+	<p>
+		V marci roku 2014 sme s niekoľkými priateľmi založili herný tím This Time Seriously venujúci sa známej online hre
+	League of Legends. Na začiatku sme boli len traja. Ja a kamaráti Milan a David sme postupne okolo seba poskladali 
+	v súčasnosti vyše 20 člennú hernú organizáciu. Minulý rok sme zrekonštruovaním  staršej budovy získali oficiálny 
+	"gaming house". Počas našej relatívne krátkej histórie sme sa úspešne zúčastnili množstva turnajov. 
+	Medzi najväčšie tímové úspechy patrí dvakrát získané 3. miesto na najväčšom slovenskom turnaji Y-games, ktorý sa 
+	zhodou okolností zvykne konať na mojej fakulte. 
+	</p>
+	
+	<div> 
+		{% include photogallery.html %}
+		{% include videogallery.html %}	
+	</div>
+</div>
+
+
+
+ 

@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+<div>
+	
+	<div style ="display:inline-block;">
+		<img src="/images/sach.jpg" style="float:right">
+		
+		<p>
+		{{page.content}}
+		</p>
+		
+	</div>
+	
+	{% assign sortedgames = (site.chessgames | sort: 'date' | reverse) %}
+	{% for game in sortedgames %}
+		
+	  <p class = "details"> 
+			{{game.date | date: "%d.%m.%Y"}}
+			{{ game.white }} {{ game.whiteElo }} 
+			{{ game.result | replace: '1/2','½'}}  
+			{{ game.black}} {{ game.blackElo }}
+			{% if game.tournament %} {{game.tournament}} {% endif %}
+	  </p>
+	  <p class = "gameabout"> 
+		{{game}}
+	  </p>
+	{% endfor %}
+
+	<p> 2. liga A {% include table2league.html %} </p>
+	<p> 3. liga A2 {% include table3league.html %} </p>
+
+</div>
