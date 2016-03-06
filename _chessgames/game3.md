@@ -8,4 +8,5 @@ date: 2016-02-21
 result: 1/2-1/2
 ---
 
-obkec
+V mojej poslednej partii som konečne hral bielymi. Súperom bol hráč, s ktorým už som mal možnosť hrať. Naposledy
+náš súboj skončil jeho výhrou, takže som mal motiváciu mu to vrátiť.
