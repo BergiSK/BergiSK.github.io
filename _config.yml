@@ -9,4 +9,4 @@ gallerytag:
 collections:
  - chessgames
 
-gems: [jekyll-youtube, rmagick]    
+gems: [jekyll-youtube]    

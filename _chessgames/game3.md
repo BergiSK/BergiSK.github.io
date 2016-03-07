@@ -9,4 +9,5 @@ result: 1/2-1/2
 ---
 
 V mojej poslednej partii som konečne hral bielymi. Súperom bol hráč, s ktorým už som mal možnosť hrať. Naposledy
-náš súboj skončil jeho výhrou, takže som mal motiváciu mu to vrátiť.
+náš súboj skončil jeho výhrou, takže som mal motiváciu mu to vrátiť. Vyhratú pozíciu som ale v závere zle vyhodnotil a
+súper vybojoval remízu. Napriek tomu náš tím zvíťazil. 
