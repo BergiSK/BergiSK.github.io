@@ -39,7 +39,7 @@ p {
 }
 footer {
 	    padding: 0px 20px 0px 20px;
-    
+    border-top: #333 solid 1px;
     font-size: .8em;
 }
 footer ul {
@@ -215,4 +215,41 @@ display: inline-block;}
 	padding-left:15px;
 	padding-right:15px;
 	
+}
+.pg {
+    text-align: center;
+	    border-bottom: #333 solid 1px;
+		padding-bottom:15px;
+	}
+
+.pg img {
+	    height: 216px;
+    width: 360px;
+	    border: solid 2px #e4e4e4;
+}
+
+.pg img:hover {
+	background-color:#e4e4e4;
+}
+
+.videogallery {
+text-align: center;
+}
+
+.footer {
+    border-top: #333 solid 1px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    font-size: 0.9em;
+}
+
+.footer span {
+	padding-right:15px;
+}
+
+.footer img {
+	    position: relative;
+    top: 15px;
+	padding-left:0px;
+	padding-right:0px;
 }
