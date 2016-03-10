@@ -242,6 +242,7 @@ text-align: center;
     padding-left: 20px;
     padding-bottom: 15px;
     font-size: 0.9em;
+	    clear: both;
 }
 
 .footer span {
@@ -268,13 +269,15 @@ border: none;
 
 .aboutshort {
 	    width: 300px;
-    position: relative;
     float: right;
     font-size: 18px;
     margin-right: 20px;
     border: #12A5F4 solid 2px;
     border-radius: 15px;
 	margin-top: 30px;
+	margin-bottom: 25px;
+	    z-index: -5;
+		margin-left: 10px;
 }
 
 .titleabout {
