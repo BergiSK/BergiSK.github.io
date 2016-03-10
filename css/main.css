@@ -24,6 +24,7 @@ h1 {
 	    font-weight: 200;
 		    border-bottom: #333 solid 1px;
     padding-bottom: 15px;
+	line-height:normal;
 }
 
 h2 {
@@ -205,7 +206,7 @@ display: inline-block;}
 
 .tables div {
 	border-radius: 15px 50px;
-        border: #333 solid 1px;
+        border: #12A5F4 solid 2px;
 		    margin-bottom: 10px;
 			margin-top: 10px;
     padding-bottom: 10px;
@@ -252,4 +253,47 @@ text-align: center;
     top: 15px;
 	padding-left:0px;
 	padding-right:0px;
+}
+
+.tables .tablename {
+border: none;
+    background-color: #12A5F4;
+    margin: 0;
+    border-radius: 15px 50px 0px 0px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+
+.aboutshort {
+	    width: 300px;
+    position: relative;
+    float: right;
+    font-size: 18px;
+    margin-right: 20px;
+    border: #12A5F4 solid 2px;
+    border-radius: 15px;
+	margin-top: 30px;
+}
+
+.titleabout {
+	
+    text-align: center;
+	background-color:#12A5F4;
+	color:white;
+	font-weight:bold;
+	border-radius: 12px 12px 0px 0px;
+}
+
+.aboutcont {
+	padding: 5px;
+}
+
+.eval {
+	    color: white;
+    background-color: #12A5F4;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }

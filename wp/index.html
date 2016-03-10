@@ -1,6 +1,20 @@
 ---
-layout: webPub
+layout: default
 title: Webové publikovanie
 ---
-Táto sekcia je venovaná predmetu Webové publikovanie a budú na nej priebežne zverejňované
+	<h1>{{ page.title }}</h1>
+	<div class="content">
+	<p>
+	Táto sekcia je venovaná predmetu Webové publikovanie a budú na nej priebežne zverejňované
 vypracované semestrálne zadania.
+	</p>
+	</div>
+	<ul class="tasks">
+
+	  {% for post in site.posts %}
+	  {% if post.type == 'zadanie' %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">
+			{{ post.title }}</a></li>
+	  {% endif %}
+	  {% endfor %}
+	</ul>
